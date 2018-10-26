@@ -1,2 +1,2 @@
 # background-generator
-testing
+Automathically creates a background for a web page
