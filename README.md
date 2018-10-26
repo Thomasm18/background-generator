@@ -1,2 +1,2 @@
 # background-generator
-Automathically creates a background for a web page
+Automatically creates a background for a web page
